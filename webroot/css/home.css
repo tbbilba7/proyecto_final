@@ -20,6 +20,7 @@ header{
 	border-bottom: 1px solid black;
 }
 footer{
+	background: red;
 	padding: 20px;
 	text-align: center;
 	border-top: 1px solid black;

@@ -17,6 +17,8 @@
                 <ul>
                     <li><a href="<?php echo BASE_DIR_URL?>home/index">Home</a></li>
                     <li><a href="<?php echo BASE_DIR_URL?>contacto/index">Contacto</a></li>
+                    <li><a href="<?php echo BASE_DIR_URL?>contacto/index">Registro</a></li>
+                    <li><a href="<?php echo BASE_DIR_URL?>contacto/index">Sobre nosotros</a></li>
                 </ul>
             </nav>
         </header>
