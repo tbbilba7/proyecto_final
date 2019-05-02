@@ -35,3 +35,15 @@ li{
 a{
  text-decoration: none;
 }
+#nuevo{
+ width: 700px;
+ height: 200px;
+ text-indent: 2px;
+ margin: 2px;
+ padding: 3px;
+ background: #33D7C4;
+}
+img{
+ margin:2px;
+ border: 1px solid black;
+}
