@@ -19,9 +19,18 @@ header{
 	padding: 20px;
 	border-bottom: 1px solid black;
 }
-footer{
-	background: red;
+footer{	
 	padding: 20px;
 	text-align: center;
 	border-top: 1px solid black;
+	background: #D2B4DE;
+}
+li{
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid black;
+  background: #76D7C4;
+}
+a{
+ text-decoration: none;
 }

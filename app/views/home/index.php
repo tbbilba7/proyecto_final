@@ -1,5 +1,5 @@
 <?php defined('BASEPATH') or exit ('No se permite acceso directo');?>
 
-<h3>HOME</h3>
+<h3>Inicio</h3>
 
-<p>Esto es una prueba inicial</p>
+<p>Esto es una prueba nueva</p>
